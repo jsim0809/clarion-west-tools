@@ -1,0 +1,25 @@
+{
+  "name": "clarion-west-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsim0809/clarion-west-tools.git"
+  },
+  "author": "Jeremy Sim <jeremy_sim@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsim0809/clarion-west-tools/issues"
+  },
+  "homepage": "https://github.com/jsim0809/clarion-west-tools#readme",
+  "dependencies": {
+    "semantic-ui": "^2.4.2"
+  }
+}
